@@ -1,0 +1,12 @@
+[submodule "assignment1"]
+	path = assignment1
+	url = https://github.com/UmairSatti010/assignment1.git
+[submodule "assignment02"]
+	path = assignment02
+	url = https://github.com/UmairSatti010/assignment02.git
+[submodule "quiz1"]
+	path = quiz1
+	url = https://github.com/UmairSatti010/quiz1.git
+[submodule "midterm"]
+	path = midterm
+	url = https://github.com/UmairSatti010/midterm.git
