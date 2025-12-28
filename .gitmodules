@@ -10,3 +10,6 @@
 [submodule "midterm"]
 	path = midterm
 	url = https://github.com/UmairSatti010/midterm.git
+[submodule "Assignment03"]
+	path = Assignment03
+	url = https://github.com/UmairSatti010/Assignment03
