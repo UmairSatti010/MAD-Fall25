@@ -13,3 +13,6 @@
 [submodule "Assignment03"]
 	path = Assignment03
 	url = https://github.com/UmairSatti010/Assignment03
+[submodule "Assignment04"]
+	path = Assignment04
+	url = https://github.com/UmairSatti010/Assignment04
