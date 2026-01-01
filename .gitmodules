@@ -16,3 +16,6 @@
 [submodule "Assignment04"]
 	path = Assignment04
 	url = https://github.com/UmairSatti010/Assignment04
+[submodule "Final-Project"]
+	path = Final-Project
+	url = https://github.com/UmaiRSatti010/Final-Project
